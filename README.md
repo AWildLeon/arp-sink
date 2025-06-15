@@ -92,12 +92,6 @@ Use it **only** in environments where you're authorized (lab, testing, honeypots
 
 ---
 
-## 📄 License
-
-MIT License – no warranties, no guarantees.
-
----
-
 ## TL;DR
 
 > `arp-sink` lets you hijack unclaimed IPs and show a “host unreachable” page.
